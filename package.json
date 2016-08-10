@@ -1,0 +1,23 @@
+{
+  "name": "amphtml",
+  "version": "1.0.0",
+  "description": "AMP HTML source code, samples, and documentation from Google",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/amphtml.git"
+  },
+  "keywords": [
+    "amp",
+    "google"
+  ],
+  "author": "jellyfishgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/amphtml/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/amphtml#readme"
+}
