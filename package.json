@@ -4,7 +4,8 @@
   "description": "AMP HTML source code, samples, and documentation from Google",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jellyfishgh/amphtml/issues"
   },
-  "homepage": "https://github.com/jellyfishgh/amphtml#readme"
+  "homepage": "https://github.com/jellyfishgh/amphtml#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
+  }
 }
